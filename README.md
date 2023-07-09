@@ -1,4 +1,4 @@
-# How good is orekit in propagation of LEO
+# How good is orekit ---> propagation of a LEO satellite
 
 The example highlights a demonstration of Orekit's impressive capability to accurately predict the trajectory of a satellite in a Low Earth Orbit. Specifically, the example focuses on the prediction of the Sentinel-1 satellite's orbit, which serves as a test case for evaluating Orekit's performance. One can tune the spacecraft physical parameters for precise results.
 
